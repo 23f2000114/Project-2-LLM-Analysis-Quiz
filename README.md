@@ -1,2 +1,12 @@
-# Project-2-LLM-Analysis-Quiz
-An autonomous LangGraph + LangChain agent that solves data-focused quizzes using web scraping, processing, analysis, and visualization. It uses Google’s Gemini 2.5 Flash to reason, choose tools, and complete tasks.
+---
+title: LLM Analysis Quiz
+emoji: 👁
+colorFrom: red
+colorTo: purple
+sdk: docker
+pinned: false
+license: mit
+short_description: LLM Analysis Quiz App
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
