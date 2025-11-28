@@ -14,8 +14,6 @@ llm = ChatGoogleGenerativeAI(
     api_key=os.environ["GOOGLE_API_KEY"]
 )
 
-# load_dotenv()
-# client = genai.Client()
 
 def strip_code_fences(code: str) -> str:
     code = code.strip()
